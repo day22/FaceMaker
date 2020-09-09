@@ -3,7 +3,7 @@
  *    Author: Aidan Day
  *    Date: 9/8/2020
  *    Code version: 1.0
- *    Availability: github
+ *    Availability: https://github.com/day22/FaceMaker
  *
  ***************************************************************************************/
 package edu.up.facemaker;
